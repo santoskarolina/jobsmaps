@@ -1,7 +1,7 @@
 # Jobs Map
 Site com mapa interativo para exibir as vagas dos maiores portais de contratação. 
 
-Acesse https://jobsmap.wswebsolucoes.com.br/
+Acesse https://jobsmap.com.br/
 
 Repositório criado para feedbacks e issues.
 
